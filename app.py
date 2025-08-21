@@ -10,8 +10,8 @@ from tensorflow.keras.layers import LSTM, Dense
 # PAGE CONFIG
 # ================================
 st.set_page_config(page_title="Ultra-Low Latency Trading Simulator", layout="wide")
-st.title("⚡ Ultra-Low Latency Trading Simulator")
-st.write("Simulates trades, strategy, and PnL tracking in real-time!")
+st.title("⚡ Velocis")
+st.write("Simulates trades, strategy, and PnL tracking in real-time, with ultra-low latency")
 
 # ================================
 # PARAMETERS
