@@ -11,7 +11,7 @@ from tensorflow.keras.layers import LSTM, Dense
 # ================================
 st.set_page_config(page_title="Ultra-Low Latency Trading Simulator", layout="wide")
 st.title("⚡ Ultra-Low Latency Trading Simulator")
-st.write("Simulates trades, strategy, and PnL tracking in real-time — hosted entirely in Streamlit!")
+st.write("Simulates trades, strategy, and PnL tracking in real-time!")
 
 # ================================
 # PARAMETERS
