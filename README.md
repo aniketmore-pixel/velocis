@@ -4,6 +4,8 @@
 
 Velocis is a real-time trading simulator that demonstrates how ultra-low latency strategies, LSTM-driven signals, and live visualization can be combined for quantitative finance experiments.
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d7d54e25-7018-4f04-91c3-27b8741a371f" />
+
 ---
 
 ## 🚀 Features
@@ -49,12 +51,6 @@ streamlit run app.py
 - Adjust parameters (tick count, speed, start price) from the sidebar.  
 - Watch the live chart update with **BUY/SELL signals**.  
 - Monitor **PnL, Sharpe ratio, and trade latency** in real-time.  
-
----
-
-## 📊 Example Screenshot
-
-*(Add screenshot of live Streamlit app here)*
 
 ---
 
