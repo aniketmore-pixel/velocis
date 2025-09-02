@@ -27,7 +27,7 @@ Velocis is a real-time trading simulator that demonstrates how ultra-low latency
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/velocis.git
+git clone https://github.com/aniketmore-pixel/velocis.git
 cd velocis
 
 # Create virtual environment (optional but recommended)
@@ -63,12 +63,3 @@ streamlit run app.py
 - Integrate real-world market data APIs (e.g., Alpaca, Polygon.io)  
 - Extend LSTM model with attention mechanism  
 - Optimize further for GPU-based ultra-low latency  
-
----
-
-## 📜 License
-MIT License © 2025 [Your Name]  
-
----
-
-> ⚡ Velocis: A real-time ultra-low latency trading simulator with LSTM-powered signals, live PnL tracking, and strategy visualization.
