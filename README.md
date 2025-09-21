@@ -59,3 +59,4 @@ streamlit run app.py
 - Integrate real-world market data APIs (e.g., Alpaca, Polygon.io)  
 - Extend LSTM model with attention mechanism  
 - Optimize further for GPU-based ultra-low latency  
+
